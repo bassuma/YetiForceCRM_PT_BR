@@ -1572,4 +1572,10 @@ $jsLanguageStrings = [
 	'JS_EMAIL_RESTRICTED_DOMAINS' => 'Domínio restrito. Por favor, digite um outro diferente.',
 	'JS_EMAIL_RESET_RELATIONS_CONFIRMATION' => 'Tem certeza que deseja redefinir os e-mails relacionados novamente?',
 	'JS_MASS_REVIEWING_CHANGES_CONFIRMATION' => 'Tem certeza que desena revisar as alterações nos registros selecioandos?',
+	'JS_MARKED_AS_READ' => 'Marcar como lido',
+	'JS_LAST_7_DAYS' => 'Últimos 7 dias',
+	'JS_LAST_30_DAYS' => 'Últimos 30 dias',
+	'JS_CURRENT_MONTH' => 'Mês atual',
+	'JS_LAST_MONTH' => 'Mês passado',
+	'JS_CUSTOM' => 'Faixa de data personalizada',
 ];
